@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="75px" viewBox="0 0 85 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>finlabs_logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.666435 0.663201 43.30018 0.663201 43.30018 56.318031 0.666435 56.318031"></polygon>
+        <polygon id="path-3" points="0 81.72703 84.11018 81.72703 84.11018 0.77 0 0.77"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Test" transform="translate(-58.000000, -34.000000)">
+            <g id="finlabs_logo" transform="translate(58.000000, 34.000000)">
+                <path d="M41.476281,12.022857 C37.071111,7.986517 31.202941,5.522517 24.758041,5.522517 C11.084381,5.522517 0.000231,16.607437 0.000231,30.280327 C0.000231,43.953987 11.084381,55.038137 24.758041,55.038137 C31.371571,55.038137 37.375261,52.439387 41.815851,48.213627 L28.455581,17.730097 L41.476281,12.022857 Z" id="Fill-1" fill="#00AEEF"></path>
+                <g id="Group-5" transform="translate(40.810000, 0.107030)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <path d="M43.300565,39.358011 L26.340545,0.663201 L0.666435,11.915981 C5.606755,16.442041 8.705235,22.945461 8.705235,30.173451 C8.705235,37.232811 5.746125,43.596861 1.006005,48.106751 L4.605755,56.318031 L43.300565,39.358011 Z" id="Fill-3" fill="#FED330" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M49.515466,30.28025 C49.515466,23.05226 46.416986,16.54884 41.476666,12.02278 L28.455196,17.73002 L41.816236,48.21355 C46.556356,43.70366 49.515466,37.33961 49.515466,30.28025" id="Fill-6" fill="#25A9E0"></path>
+                <path d="M49.515466,30.28025 C49.515466,23.05226 46.416986,16.54884 41.476666,12.02278 L28.455196,17.73002 L41.816236,48.21355 C46.556356,43.70366 49.515466,37.33961 49.515466,30.28025" id="Fill-8" fill="#FC5C65"></path>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-10"></g>
+                <text id="FINLABS" mask="url(#mask-4)" font-family="Montserrat-SemiBold, Montserrat" font-size="15.4" font-weight="500" fill="#414042">
+                    <tspan x="7.336406" y="73.8734392">FIN</tspan>
+                    <tspan x="34.532806" y="73.8734392" letter-spacing="0.0770000003">L</tspan>
+                    <tspan x="43.911406" y="73.8734392">ABS</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,67 @@
+.content2 {
+    background-color: #F5F5F5;
+    overflow: hidden;
+    float:left;
+    width: 450px;
+    
+    
+}
+
+.albumcontainer{        /* The big container which just contains the album results*/
+    margin-top: 35px;
+    margin-left: 35px;
+    width: 450px;
+}
+
+.albumitem {            /* Album items*/
+    width: 170px;
+    height: 200px;
+    float:left;
+    margin-right: 35px;
+    margin-bottom: 35px;
+}
+
+.albumitem img {
+    height: 150px;
+    width: 150px;
+    cursor: pointer;
+}
+
+.albumitem .description {
+    width: 150px;
+    height: 50px;
+    background-color: #FFFFFF;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+    border: none;
+    margin-top: -5px;
+    
+}
+
+.content3 {
+    background-color: #F5F5F5;
+    width: 700px;
+    overflow: hidden;
+    padding-top: 35px;
+}
+
+.content3 img {
+    width: 600px;
+    height: 600px;
+}
+
+.content3 .fillertext {
+    width: 600px;
+    height: 600px;
+    overflow-wrap: break-word;
+}
+
+.content3 .fillertext p {
+    text-align: justify;
+}
+
